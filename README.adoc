@@ -1,0 +1,14 @@
+= A JBang catalog of Kordamp projects
+
+Enables running Kordamp CLI projects via link:https://github.com/jbangdev/jbang[jbang].
+
+[source]
+----
+$ jbang <script>@kordamp --help
+----
+
+[header]
+|===
+| Script     | Description
+| pomchecker | Checks POM files may be uploaded to Maven Central
+|===
