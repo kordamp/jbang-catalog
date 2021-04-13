@@ -1,8 +1,12 @@
 {
-  "aliases": {
-    "pomchecker": {
-      "script-ref": "pomchecker.java",
-      "description": "Checks POM files may be uploaded to Maven Central"
+  "aliases" : {
+    "pomchecker" : {
+      "script-ref" : "pomchecker.java",
+      "description" : "Checks POM files may be uploaded to Maven Central"
+    },
+    "pomchecker-snapshot" : {
+      "script-ref" : "pomchecker_snapshot.java",
+      "description" : "Checks POM files may be uploaded to Maven Central"
     }
   }
 }
