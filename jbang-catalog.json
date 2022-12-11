@@ -7,6 +7,10 @@
     "pomchecker-snapshot" : {
       "script-ref" : "pomchecker_snapshot.java",
       "description" : "Checks POM files may be uploaded to Maven Central"
+    },
+    "jarviz-snapshot" : {
+      "script-ref" : "jarviz_snapshot.java",
+      "description" : "JAR file analyzer"
     }
   }
 }
