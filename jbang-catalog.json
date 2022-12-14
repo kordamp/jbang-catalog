@@ -11,6 +11,10 @@
     "jarviz-snapshot" : {
       "script-ref" : "jarviz_snapshot.java",
       "description" : "JAR file analyzer"
+    },
+    "jarviz" : {
+      "script-ref" : "jarviz.java",
+      "description" : "JAR file analyzer"
     }
   }
 }
