@@ -1,8 +1,8 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 11+
 //REPOS jitpack
-//DEPS com.github.kordamp.jarviz:jarviz-cli:main-SNAPSHOT
-// Generated with JReleaser 1.5.0-SNAPSHOT at 2023-02-19T19:25:26.202049718Z
+//DEPS com.github.kordamp.jarviz:jarviz-cli:development-SNAPSHOT
+// Generated with JReleaser 1.5.0-SNAPSHOT at 2023-02-21T20:14:23.466481469Z
 
 public class jarviz_snapshot {
     public static void main(String... args) throws Exception {
