@@ -15,6 +15,10 @@
     "jarviz" : {
       "script-ref" : "jarviz.java",
       "description" : "JAR file analyzer"
+    },
+    "naum-snapshot" : {
+      "script-ref" : "naum_snapshot.java",
+      "description" : "Java binary compatibility checking tool"
     }
   }
 }
