@@ -2,7 +2,7 @@
 //JAVA 11+
 //REPOS jitpack
 //DEPS com.github.kordamp.jarviz:jarviz-cli:development-SNAPSHOT
-// Generated with JReleaser 1.6.0-SNAPSHOT at 2023-03-05T13:43:03.994453799Z
+// Generated with JReleaser 1.6.0-SNAPSHOT at 2023-03-06T16:04:12.418409569Z
 
 public class jarviz_snapshot {
     public static void main(String... args) throws Exception {
