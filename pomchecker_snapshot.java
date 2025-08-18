@@ -2,7 +2,7 @@
 //JAVA 8+
 //REPOS jitpack
 //DEPS com.github.kordamp.pomchecker:pomchecker-cli:master-SNAPSHOT
-// Generated with JReleaser 1.19.0 at 2025-08-18T18:11:46.198166Z
+// Generated with JReleaser 1.19.0 at 2025-08-18T18:14:09.652579Z
 
 public class pomchecker_snapshot {
     public static void main(String... args) throws Exception {
