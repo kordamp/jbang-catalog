@@ -1,7 +1,7 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 8+
-//DEPS org.kordamp.maven:pomchecker-cli:1.14.0
-// Generated with JReleaser 1.14.0 at 2024-10-23T08:23:11.700541327Z
+//DEPS org.kordamp.maven:pomchecker-cli:1.15.0
+// Generated with JReleaser 1.22.0 at 2026-02-27T15:13:02.640615515Z
 
 public class pomchecker {
     public static void main(String... args) throws Exception {
